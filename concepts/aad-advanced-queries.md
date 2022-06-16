@@ -6,7 +6,7 @@ ms.localizationpriority: high
 ms.custom: graphiamtop20, scenarios:getting-started
 ---
 
-# Advanced query capabilities on Azure AD directory objects
+# Advanced query capabilities on Azure AD directory objects 
 
 As Azure AD continues to deliver more capabilities and improvements in stability, availability, and performance, Microsoft Graph also continues to evolve and scale to efficiently access the data. One way is through Microsoft Graph's increasing support for advanced query capabilities on various Azure AD objects and their properties. For example, the addition of **not** (`not`), **not equals** (`ne`), and **ends with** (`endswith`) operators on the `$filter` query parameter.
 
